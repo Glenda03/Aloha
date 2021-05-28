@@ -14,8 +14,15 @@
 
 get_header();
 ?>
-
-	<main id="primary" class="site-main">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<div class="container">
+	<main id="primary" class="site-main" style="font-family: Monostype Corsiva !important; font-size: 20px;">
 
 		<?php
 		while ( have_posts() ) :
@@ -32,7 +39,7 @@ get_header();
 		?>
 
 	</main><!-- #main -->
-
+</div>
 <?php
 get_sidebar();
 get_footer();

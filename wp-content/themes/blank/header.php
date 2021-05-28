@@ -49,6 +49,10 @@
                 <a href="http://localhost/Wordpress1/home/" class="nav-item nav-link">HOME</a>
                 <a href="http://localhost/Wordpress1/about-us/" class="nav-item nav-link">ABOUT US</a>
                 <a href="http://localhost/Wordpress1/contact-us/" class="nav-item nav-link">CONTACT US</a>
+                 <a href="http://localhost/Wordpress1/shop/" class="nav-item nav-link">PRODUCT</a>
+                <a href="http://localhost/Wordpress1/cart/" class="nav-item nav-link">CART</a>
+                 <a href="http://localhost/Wordpress1/checkout/" class="nav-item nav-link">CHECK OUT</a>
+                  <a href="http://localhost/Wordpress1/my-account/" class="nav-item nav-link">My Account</a>
             </div>
             <div class="navbar-nav ml-auto">
                 <a href="#" class="nav-item nav-link"></a>
@@ -56,4 +60,4 @@
         </div>
     </nav>
 </div>
-        <a href="http://localhost/hatdoug/home/" style="float: right; text-align: right; font-size: 60px; color: black; font-family: Engrave MT;">LACED IN LUXURY</a>
+        <a href="http://localhost/hatdoug/home/" style="float: left; text-align: left; font-size: 60px; color: black; font-family: Engrave MT;">LACED IN LUXURY</a>

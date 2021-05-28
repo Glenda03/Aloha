@@ -18,7 +18,7 @@
 <div class="container">
   <div class="jumbotron" style="background-image: url('http://localhost/Wordpress1/wp-content/uploads/2021/05/pink.jpg'); background-position: center;
   background-repeat: no-repeat;
-  background-size: cover; margin-top: 100px;">
+  background-size: cover; margin-top: 75px;">
     <h1 style="text-align: center;">ABOUT US</h1>      
     <p style = "font-family: Engrave MT;" >Laced In Luxury created a new way to spoil who love fashion, because we believe style is a way of life, deeply personal, and should always be fun. Today, millions of women get their personalized fashion fix from us, with access to top trend style inspiration, and world-class service.
     </p>
@@ -41,23 +41,23 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="http://localhost/Wordpress1/wp-content/uploads/2021/05/wedding-shoes2.jpg" alt="Los Angeles" style = "width: 100%; height: 70%;">
+        <img src="http://localhost/Wordpress1/wp-content/uploads/2021/05/btshoes0001-1.jpg" style = "width: 100%; height: 100%;">
       </div>
 
       <div class="item">
-        <img src="http://localhost/hatdoug/wp-content/uploads/2021/05/181690525_231637188739914_1511915692249549346_n.jpg" alt="Los Angeles" style = "width: 100%; height: 70%;">
+        <img src="http://localhost/Wordpress1/wp-content/uploads/2021/05/one-strap-ankle-pointed-heels.jpg" style = "width: 100%; height: 70%;">
       </div>
     
       <div class="item">
-        <img src="http://localhost/hatdoug/wp-content/uploads/2021/05/181600728_765578334325895_3772006248740419423_n.jpg" alt="New York" style = "width: 100%; height: 70%;">
+        <img src="http://localhost/Wordpress1/wp-content/uploads/2021/05/Capture-6.jpg" style = "width: 100%; height: 70%;">
       </div>
     
       <div class="item">
-        <img src="http://localhost/hatdoug/wp-content/uploads/2021/05/183008315_374638140524073_3192594637813522930_n.jpg" alt="New York" style = "width: 100%; height: 70%;">
+        <img src="http://localhost/Wordpress1/wp-content/uploads/2021/05/weddingsandals.jpg" style = "width: 100%; height: 70%;">
       </div>
     
       <div class="item">
-        <img src="http://localhost/hatdoug/wp-content/uploads/2021/05/182966657_776104846603511_4604840561962334118_n.jpg" alt="New York" style = "width: 100%; height: 70%;">
+        <img src="http://localhost/Wordpress1/wp-content/uploads/2021/05/Capture3-3.jpg" style = "width: 100%; height: 70%;">
       </div>
     </div>
 

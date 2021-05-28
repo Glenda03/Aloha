@@ -1,0 +1,4 @@
+2021-05-26T15:11:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-content\themes\blank\inc\template-functions.php on line 14
+
+2021-05-26T15:12:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-content\plugins\kliken-marketing-for-google\classes\class-helper.php on line 10
+
